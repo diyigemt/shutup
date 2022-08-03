@@ -12,7 +12,7 @@
 
 shutup 继承 [Mirai](https://github.com/mamoe/mirai) 使用 AGPLv3 协议开源。为了整个社区的良性发展，我们强烈建议您做到以下几点：
 
-- 间接接触到 arona 的软件使用 AGPLv3 开源
+- 间接接触到 shutup 的软件使用 AGPLv3 开源
 - **不鼓励，不支持一切商业使用**
 
 请注意，由于种种原因，开发者可能在任何时间**停止更新**或**删除项目**。
@@ -27,9 +27,9 @@ shutup 继承 [Mirai](https://github.com/mamoe/mirai) 使用 AGPLv3 协议开源
 
 <h3>All development is for learning, please do not use it for illegal purposes</h3>
 
-- arona is a free and open source software for learning and entertainment purposes only.
-- arona will not compulsorily charge fees or impose material conditions on users in any way.
-- arona is maintained by the entire open source community and is not a work belonging to an individual. All contributors enjoy the copyright of their work.
+- shutup is a free and open source software for learning and entertainment purposes only.
+- shutup will not compulsorily charge fees or impose material conditions on users in any way.
+- shutup is maintained by the entire open source community and is not a work belonging to an individual. All contributors enjoy the copyright of their work.
 
 ## License
 
