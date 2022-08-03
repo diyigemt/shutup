@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/gradle/wrapper/gradle-wrapper.jar
+/build/
+/.idea/
+/test/
+/out/
+/run/
+/config/
+/plugins/
+/debug-sandbox/*
+/src/test/kotlin/RunMirai.kt
+
+# Runtime files
+/bots/
+/data/
+/logs/
+/plugin-libraries/
+/plugin-shared-libraries/
